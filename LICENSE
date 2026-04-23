@@ -1,123 +1,126 @@
-WEBSITE & LMS LICENSE AGREEMENT
+ORBITAL LEARN
 
-Effective Date: [14 April 2026]
+QUIZ PLATFORM LICENSE AGREEMENT
+
+Effective Date: [22 April 2026]
 Last Updated: [23 April 2026]
 
 1. DEFINITIONS
-For the purposes of this Agreement:
-•	“Platform” refers to orbitallearn.com, including its website, Learning Management System (LMS), web applications, dashboards, and related services.
-•	“Software” means all source code, backend systems, databases, APIs, and infrastructure supporting the Platform.
-•	“Content” includes courses, videos, text, documents, assignments, and educational materials.
-•	“User” refers to any individual accessing or using the Platform.
-•	“Services” refers to all features provided through the Platform.
+•	“Quiz Platform” refers to all quiz-related features of orbitallearn.com, including quizzes, tests, assessments, leaderboards, scoring systems, and evaluation engines.
+•	“System” includes backend logic, scoring algorithms, anti-cheating mechanisms, and databases.
+•	“Content” includes questions, answers, explanations, test structures, and evaluation logic.
+•	“User” refers to any individual accessing or participating in quizzes.
 
 2. OWNERSHIP & INTELLECTUAL PROPERTY
-All rights, title, and interest in and to the Platform, Software, and Content are exclusively owned by Orbital Learn.
+All quiz systems, question banks, scoring mechanisms, and algorithms are the exclusive property of Orbital Learn.
 This includes:
-•	course structures and educational materials
-•	system architecture and backend logic
-•	UI/UX design and branding
-•	platform features and functionalities
-No ownership rights are transferred to Users.
+•	question design and evaluation logic
+•	scoring and ranking algorithms
+•	anti-cheating systems
+•	leaderboard structures
+Unauthorized use is strictly prohibited.
 
 3. LICENSE GRANT
-Orbital Learn grants Users a:
-•	limited
-•	non-exclusive
-•	non-transferable
-•	revocable
-license to access and use the Platform strictly for:
-•	personal learning
-•	educational purposes
-•	non-commercial use
+Users are granted a limited, non-exclusive, non-transferable, and revocable license to:
+•	attempt quizzes
+•	view results
+•	participate in rankings
+Strictly for personal and non-commercial use.
 
-4. USER RESPONSIBILITIES
-Users agree to:
-•	provide accurate information during registration
-•	maintain confidentiality of login credentials
-•	use the Platform in a lawful and ethical manner
-Users are responsible for all activities under their account.
+4. STRICT ANTI-CHEATING POLICY
+Orbital Learn enforces zero-tolerance for cheating.
+Users must NOT:
+•	use external help during quizzes (unless explicitly allowed)
+•	use multiple accounts to gain advantage
+•	switch tabs, devices, or sessions to bypass restrictions
+•	use AI tools, bots, scripts, or automation
+•	exploit bugs or vulnerabilities
 
-5. RESTRICTIONS
-Users shall NOT:
-•	copy, reproduce, or distribute Content without permission
-•	record, download, or share courses illegally
-•	reverse engineer or attempt to access source code
-•	use bots, scripts, or automation tools
-•	misuse platform features or disrupt services
+5. ENFORCEMENT ACTIONS
+If suspicious activity is detected, Orbital Learn reserves the right to:
+•	invalidate scores
+•	remove leaderboard rankings
+•	revoke certificates or achievements
+•	restrict quiz access
+•	suspend or permanently ban accounts
+All decisions are final and non-negotiable.
 
-6. CONTENT PROTECTION
-•	All educational Content is protected under intellectual property laws
-•	Unauthorized sharing, redistribution, or resale is prohibited
-•	Certificates (if issued) may be revoked upon misuse
+6. SCORE & RESULT DISCLAIMER
+•	Quiz results are generated algorithmically
+•	Orbital Learn does not guarantee absolute accuracy
+•	Results may be adjusted, reviewed, or invalidated if irregularities are detected
 
-7. USER CONTENT (IF APPLICABLE)
-If Users upload content (assignments, comments, etc.):
-•	Users retain ownership of their content
-•	Users grant Orbital Learn a limited license to use it for platform functionality
-•	Orbital Learn may remove content that violates policies
+7. SYSTEM INTEGRITY & SECURITY
+Users must NOT:
+•	attempt to hack or manipulate the system
+•	reverse engineer quiz logic
+•	perform denial-of-service or overload attacks
+•	access unauthorized data
+Violations may result in:
+•	immediate termination
+•	legal action
 
-8. DATA & PRIVACY
-•	User data is handled in accordance with the Privacy Policy
-•	We collect necessary data for functionality and improvement
-•	We implement reasonable security measures but cannot guarantee absolute security
+8. DATA USAGE FOR INTEGRITY
+To maintain fairness, Orbital Learn may collect:
+•	session activity data
+•	device/browser information
+•	behavioral patterns
+This data is used solely for:
+•	fraud detection
+•	system improvement
+•	security enforcement
 
-9. THIRD-PARTY SERVICES
-The Platform may integrate third-party services such as:
-•	hosting providers
-•	analytics tools
-•	authentication systems
-Orbital Learn is not responsible for issues originating from these services.
-
-10. SERVICE AVAILABILITY
+9. SERVICE AVAILABILITY
 Orbital Learn does not guarantee:
-•	uninterrupted access
-•	error-free operation
+•	uninterrupted quiz sessions
+•	error-free performance
 We reserve the right to:
-•	modify or discontinue features
-•	perform maintenance
-•	restrict access when necessary
+•	cancel or restart quizzes
+•	modify scoring logic
+•	suspend features temporarily
 
-11. DISCLAIMER OF WARRANTIES
-The Platform is provided “as is” and “as available”.
+10. DISCLAIMER OF WARRANTIES
+The Quiz Platform is provided “as is” and “as available”.
 We do not guarantee:
-•	accuracy of content
-•	reliability of performance
-•	fitness for a specific purpose
+•	perfect fairness under all conditions
+•	uninterrupted operation
+•	accuracy of rankings
 
-12. LIMITATION OF LIABILITY
-To the maximum extent permitted by law, Orbital Learn shall not be liable for:
-•	indirect or consequential damages
-•	loss of data or learning progress
-•	service interruptions
+11. LIMITATION OF LIABILITY
+Orbital Learn shall not be liable for:
+•	loss of scores, rankings, or achievements
+•	technical interruptions during quizzes
+•	any indirect or consequential damages
 
-13. INDEMNIFICATION
+12. INDEMNIFICATION
 Users agree to indemnify and hold harmless Orbital Learn from:
-•	misuse of the Platform
+•	cheating or misuse of the platform
 •	violation of this Agreement
-•	infringement of third-party rights
+•	legal claims arising from user actions
 
-14. ACCOUNT SUSPENSION & TERMINATION
-Orbital Learn reserves the right to suspend or terminate accounts for:
-•	violation of this Agreement
-•	misuse of services
-•	harmful or unlawful activity
+13. ACCOUNT SUSPENSION & TERMINATION
+Accounts may be suspended or terminated for:
+•	cheating or unfair practices
+•	manipulation attempts
+•	repeated suspicious behavior
+Termination may occur without notice.
 
-15. ELIGIBILITY
-By using the Platform, you confirm that:
-•	you are at least 13 years old or meet legal age requirements
-•	you have the capacity to agree to these terms
+14. ELIGIBILITY
+By using the Quiz Platform, you confirm that:
+•	you meet minimum age requirements (13+ or applicable law)
+•	you agree to fair-use and integrity rules
 
-16. GOVERNING LAW & JURISDICTION
+15. GOVERNING LAW & JURISDICTION
 This Agreement shall be governed by the laws of India.
-Any disputes shall fall under the jurisdiction of: Courts in Karnataka, India
+All disputes shall be subject to: Courts in Karnataka, India
 
 17. CHANGES TO THIS AGREEMENT
 Orbital Learn may update this Agreement at any time.
-Continued use of the Platform constitutes acceptance of updated terms.
+Continued use of the Quiz Platform constitutes acceptance of updated terms.
 
 18. CONTACT
-For legal or support inquiries: support@orbitallearn.com
+For legal inquiries: support@orbitallearn.com
 
 © 2026 Orbital Learn. All Rights Reserved.
+
 
